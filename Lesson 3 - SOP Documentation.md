@@ -15,7 +15,13 @@ This document is designed for web developers, software engineers, and other staf
 | 1.3          | 2025-06-07   | Alan Ika     | Approver     |
 
 #### ACCOUNTABILITY MATRIX
-
+| Steps                            | Responsible Person/Team | Emergency Contact    | Non-Emergency Contact | Review/Approval |
+|----------------------------------|-------------------------|----------------------|-----------------------|-----------------|
+| Virtual Machine Preparation      | System Administrator    | Phone : 222-222-2222 | Phone : 333-222-225   | IT Manager      |
+| Linux Server Configuration       | System Administrator    | Phone : 222-222-2233 | Phone : 333-222-226   | IT Manager      |
+| Web Server Configuration         | System Administrator    | Phone : 222-222-2244 | Phone : 333-222-227   | IT Manager      |
+| Testing environment preparation  | Software Developer      | Phone : 222-222-2255 | Phone : 333-222-228   | IT Ops Manager  |
+| Documentation                    | Documentation Team      | Phone : 222-222-2266 | Phone : 333-222-229   | Author          |
 
 
 #### SCOPE
